@@ -8,7 +8,7 @@ public class SpringbootJenkinIntigrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJenkinIntigrationApplication.class, args);
-		System.out.println("New code added ");
+		System.out.println("New code added now");
 	}
 
 }
