@@ -10,6 +10,7 @@ public class SpringbootJenkinIntigrationApplication {
 		SpringApplication.run(SpringbootJenkinIntigrationApplication.class, args);
 		System.out.println("New code added now freshly now");
 		System.out.println("Hai new line code added fresh");
+		System.out.println("New token generated");
 	}
 
 }
